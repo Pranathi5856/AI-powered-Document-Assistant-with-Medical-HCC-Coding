@@ -1,0 +1,8 @@
+Diagnosis,HCC_Code,Description
+diabetes,HCC18,Diabetes Mellitus
+hypertension,HCC85,Hypertensive Disease
+COPD,HCC111,Chronic Obstructive Pulmonary Disease
+asthma,HCC110,Asthma
+CHF,HCC85,Congestive Heart Failure
+CKD,HCC136,Chronic Kidney Disease
+MI,HCC86,Myocardial Infarction
